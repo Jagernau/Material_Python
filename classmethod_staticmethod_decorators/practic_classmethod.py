@@ -54,7 +54,7 @@ class Masha(Family):
     gender = "Female"
     name = "Маша"
 
-
 masha = Masha()
 masha.add_skill("Танцы")
 print(f"{masha.name}{masha.family_skills}")
+
